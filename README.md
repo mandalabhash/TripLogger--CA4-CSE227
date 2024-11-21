@@ -1,6 +1,3 @@
-Thanks for clarifying! Here's the updated `README.md` file that incorporates your use of Firebase only for authentication, with SQLite handling the rest:  
-
----
 
 # TripLogger  
 
