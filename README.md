@@ -67,7 +67,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/mandalabhash/TripLogger.git  
+   git clone https://github.com/mandalabhash/TripLogger--CA4-CSE227.git
    ```  
 2. Open the project in **Android Studio**.  
 3. Set up Firebase Authentication:  
